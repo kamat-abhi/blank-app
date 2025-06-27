@@ -13,7 +13,7 @@ This project is a **Content-Based Movie Recommender** built using Python. It sug
 
 - Contains information about 7000 movies (title, genres, overview, etc.)
 - Loaded from a local CSV file or Pickle format
-- 📊 **Source**: Dataset obtained from [Kaggle - The Movies Dataset]https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+- 📊 **Source**: Dataset obtained from [Kaggle - The Movies Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 - 📦 **Dataset Name**: The Movies Dataset by [tmdb_5000_movies, tmdb_5000_credits, IMDB-Movie-Dataset(2023-1951)]
 
 
