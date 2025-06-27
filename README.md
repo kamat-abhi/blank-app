@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-This project is a **Content-Based Movie Recommender** built using Python. It suggests movies similar to a selected one based on a dataset of 5000 movies.
+This project is a **Content-Based Movie Recommender** built using Python. It suggests movies similar to a selected one based on a dataset of 7000 movies.
 
 ## 🚀 Features
 
@@ -11,8 +11,11 @@ This project is a **Content-Based Movie Recommender** built using Python. It sug
 
 ## 📁 Dataset
 
-- Contains information about 5000 movies (title, genres, overview, etc.)
+- Contains information about 7000 movies (title, genres, overview, etc.)
 - Loaded from a local CSV file or Pickle format
+- 📊 **Source**: Dataset obtained from [Kaggle - The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
+- 📦 **Dataset Name**: The Movies Dataset by [tmdb_5000_movies, tmdb_5000_credits, IMDB-Movie-Dataset(2023-1951)]
+
 
 ## 🧠 How It Works
 
