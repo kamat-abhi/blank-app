@@ -24,6 +24,13 @@ def recommend(movie_name):
 st.title("🎬 Movie Recommender System")
 
 
+st.write(
+    "Welcome to the Movie Recommendation System! 🎥\n"
+    "To get started, select a movie you like from the dropdown below.\n"
+    "Based on your selection, we'll suggest similar movies you might enjoy.\n"
+    "Just pick one and let us do the magic! ✨"
+)
+
 selected_movie = st.selectbox(
     'Select a movie to get recommendations:',
     movies['title'].values)
